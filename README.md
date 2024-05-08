@@ -1,4 +1,4 @@
-## COMPOSITION PATTERN
+## Composition Pattern
 
 Just a little project to show how to make the composition pattern work in nextjs
 
